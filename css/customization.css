@@ -1,0 +1,235 @@
+.main h2,
+.main h3,
+.main img {
+  text-align: center;
+  padding-top: 0px;
+  padding-bottom: 10px;
+}
+
+.header,
+.navbar {
+  background: #fff;
+}
+
+.footer {
+  background: #2595D9;
+  color: #f8f8f8;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.footer a:link,
+.footer a:hover,
+.footer a:visited,
+.footer a:active {
+  color: #f5f21f;
+  text-decoration: none;
+}
+
+.navbar {
+  margin-bottom: 0px;
+  border-radius: 0;
+}
+
+.navbar-default .navbar-brand {
+  width: 300px
+}
+
+.navbar li.active a span:before,
+.navbar-default .navbar-nav>li>a:hover span:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  bottom: -2px;
+  left: 0;
+  background-color: #2595D9;
+  /* visibility: hidden; */
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+  color: #555;
+  background-color: #e7e7e7;
+  transition: background-color .4s, color .4s;
+}
+
+.jumbotron {
+  background-image: url('../image/vattensoft-ad.jpg');
+  background-size: cover;
+  min-height: 70vh;
+  background-position: center center;
+  margin-top: 52px;
+  margin-bottom: 0px;
+}
+
+.navbar-brand {
+  padding: 0px;
+}
+
+.logo {
+  width: 48%;
+}
+
+.pic>img,
+.icon>img {
+
+  height: 147px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pic {
+  position: relative;
+  margin-top: 40px;
+}
+
+.team .item {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #fff;
+  margin-bottom: 30px;
+  border-radius: 6px;
+  border: 3px #888 solid;
+  transition: all 0.3s ease;
+}
+
+.team .item p {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.team .item:hover {
+  box-shadow: 1px 1px #53a7ea,
+  2px 2px #53a7ea,
+  3px 3px #53a7ea;
+  -webkit-transform: translateX(-3px);
+  transform: translateX(-3px);
+}
+
+.service,
+.project,
+.team {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.service {
+  background: #fff;
+}
+
+.project {
+  background: #d2e9ff;
+}
+
+.team {
+  background: #ddeae9;
+}
+
+.title {
+  margin-bottom: 50px;
+  color: #606059;
+}
+
+.title h2 {
+  color: #2595d9;
+}
+
+.project .title,
+.service .title {
+  margin-bottom: 20px;
+}
+
+.vatten-ad {
+  background: hsla(0, 0%, 0%, 0.5);
+  color: #fff;
+  padding: 20px 20px;
+  border-radius: 6px;
+}
+
+.vatten-ad>p {
+  color: #f4f4f4;
+}
+
+.glyphicon {
+  font-size: 26px;
+  color: #e7e7e7;
+}
+
+.contact-info {
+  text-emphasis: horizontal;
+}
+
+.contact-info>li {
+  margin-bottom: 1em;
+}
+
+.contact-info>li>i {
+  margin-right: .5em;
+}
+
+/*vertical-align: middle*/
+
+.contact-info>li>i::before {
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  vertical-align: middle;
+}
+
+.vatten-counter {
+  font-size: 50px;
+  display: block;
+  color: #2595d9;
+  font-family: "PT Sans", Arial, serif;
+  width: 100%;
+  font-weight: 700;
+  margin-bottom: .3em;
+}
+
+.vatten-counter-label {
+  color: #444;
+  text-transform: uppercase;
+  font-size: 12px;
+  letter-spacing: 2px;
+  margin-bottom: 2em;
+  display: block;
+}
+
+.project-introduction,
+.service-introduction {
+  color: #444;
+  /* letter-spacing: 2px;*/
+  margin-bottom: 5em;
+  display: block;
+}
+
+.icon {
+  text-align: center;
+  width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+p,
+section,
+section span,
+section div.box-services,
+section li,
+.item {
+  visibility: hidden;
+}
+
+.animated {
+  visibility: visible;
+}
+
+.to-be-animated {
+  opacity: 0;
+}
+
+.to-be-animated.animated {
+  opacity: 1;
+}
