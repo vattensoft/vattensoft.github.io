@@ -85,6 +85,7 @@
 }
 
 .team .item {
+  text-align: center;
   padding-top: 10px;
   padding-bottom: 10px;
   background-color: #fff;
@@ -94,17 +95,42 @@
   transition: all 0.3s ease;
 }
 
-.team .item p {
-  padding-left: 15px;
-  padding-right: 15px;
-}
-
 .team .item:hover {
   box-shadow: 1px 1px #53a7ea,
   2px 2px #53a7ea,
   3px 3px #53a7ea;
   -webkit-transform: translateX(-3px);
   transform: translateX(-3px);
+}
+.team .item h3 {
+  text-transform: uppercase;
+}
+
+.team .item h4 {
+  color: #333133;
+}
+
+.team .item p {
+  color: #555;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 24px;
+  font-style: italic;
+}
+.social-link{
+  text-align: center;
+}
+
+.social-github-icon{
+  max-width: 32px;
+  height: auto;
+  display: inline-block;
+}
+
+.social-linkin-icon{
+  max-width: 32px;
+  height: auto;
+  display: inline-block;
 }
 
 .service,
