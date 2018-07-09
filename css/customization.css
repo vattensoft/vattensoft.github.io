@@ -123,6 +123,7 @@
 
 .social-icon {
   display: inline-block;
+  height: 42px;
 }
 
 .social-icon:nth-child(n+1) {
