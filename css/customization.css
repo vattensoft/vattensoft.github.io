@@ -1,10 +1,15 @@
 .main h2,
-.main h3,
-.main img {
+.main h3 {
   text-align: center;
   padding-top: 0px;
   padding-bottom: 10px;
 }
+
+.main img {
+  text-align: center;
+  padding-top: 0px;
+}
+
 
 .header,
 .navbar {
@@ -79,6 +84,10 @@
   margin-right: auto;
 }
 
+.pic .img-circle {
+  border :6px #2595d9 solid;
+}
+
 .pic {
   position: relative;
   margin-top: 40px;
@@ -123,7 +132,7 @@
 
 .social-icon {
   display: inline-block;
-  height: 42px;
+  height: 32px;
 }
 
 .social-icon:nth-child(n+1) {

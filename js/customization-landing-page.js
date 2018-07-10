@@ -218,6 +218,10 @@ var footerAnimate = function () {
     });
     $('.vatten-counter').countTo();
 
+    $('#btn_meet_us').click(function (){
+      $('nav a[href="#Team"]').click();
+    });
+
     homeAnimate();
     serviceAnimate();
     projectAnimate();
