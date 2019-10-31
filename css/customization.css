@@ -96,11 +96,13 @@
     padding-top: 20px;
     padding-bottom: 20px;
   }
+}
+
+@media (max-width: 767px){
  .logo {
     height: 50px;
   }
 }
-
 .pic>img,
 .icon>img {
 
