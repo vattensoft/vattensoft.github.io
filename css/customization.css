@@ -87,8 +87,7 @@
 }
 
 .logo {
-    width: 180px;
-    overflow: hidden;
+    width: 48%;
 }
 
 @media (min-width: 768px){
