@@ -96,6 +96,9 @@
     padding-top: 20px;
     padding-bottom: 20px;
   }
+ .logo {
+    height: 50px;
+  }
 }
 
 .pic>img,
