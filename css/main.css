@@ -1959,9 +1959,9 @@ i.fa.fa-xs.fa-globe:hover,.navbar-nav li:hover{
 }
 
 .p1-gradient-bg, .primary-btn, .primary-btn2:hover, .header-btn, .donut-widget[data-chart-instance="1"] .donut-bite[data-segment-index="0"].large::after, .donut-widget[data-chart-instance="2"] .donut-bite[data-segment-index="0"].large::after, .donut-widget[data-chart-instance="3"] .donut-bite[data-segment-index="0"].large::after, .joinus-area .overlay-bg, .footer-social a:hover, .single-footer-widget .bb-btn, .generic-banner {
-  background-image: -moz-linear-gradient(0deg, #16b1ff 0%, #44d3f9 100%);
-  background-image: -webkit-linear-gradient(0deg, #16b1ff 0%, #44d3f9 100%);
-  background-image: -ms-linear-gradient(0deg, #16b1ff 0%, #44d3f9 100%);
+  background-image: -moz-linear-gradient(0deg, #44d3f9 0%, #16b1ff 100%);
+  background-image: -webkit-linear-gradient(0deg, #44d3f9 0%, #16b1ff 100%);
+  background-image: -ms-linear-gradient(0deg, #44d3f9 0%, #16b1ff 100%);
 }
 
 .p1-gradient-color, .signle-about:hover .lnr, .single-blog h4:hover {
@@ -3219,9 +3219,9 @@ h6 {
   width: 3rem;
   line-height: 3rem;
   text-align: center;
-  background-image: -webkit-linear-gradient(bottom, #16b1ff 0%, #44d3f9 100%);
-  background-image: -o-linear-gradient(bottom, #16b1ff 0%, #44d3f9 100%);
-  background-image: linear-gradient(to top, #16b1ff 0%, #44d3f9 100%)  color: #fff;
+  background-image: -webkit-linear-gradient(bottom, #44d3f9 0%, #16b1ff 100%);
+  background-image: -o-linear-gradient(bottom, #44d3f9 0%, #16b1ff 100%);
+  background-image: linear-gradient(to top, #44d3f9 0%, #16b1ff 100%);
   cursor: pointer;
   font-size: 1.2em;
   border-radius: 99em;
