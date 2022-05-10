@@ -903,7 +903,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .genric-btn.primary {
   color: #fff;
-  background: #03A9F4;
+  background: #44a6e7;
   border: 1px solid transparent;
 }
 
@@ -1919,7 +1919,7 @@ i.fa.fa-xs.fa-globe:hover,.navbar-nav li:hover{
 }
 
 .navbar-nav a:hover {
-  color: #03A9F4;
+  color: #44a6e7;
 }
 
 
@@ -1959,9 +1959,9 @@ i.fa.fa-xs.fa-globe:hover,.navbar-nav li:hover{
 }
 
 .p1-gradient-bg, .primary-btn, .primary-btn2:hover, .header-btn, .donut-widget[data-chart-instance="1"] .donut-bite[data-segment-index="0"].large::after, .donut-widget[data-chart-instance="2"] .donut-bite[data-segment-index="0"].large::after, .donut-widget[data-chart-instance="3"] .donut-bite[data-segment-index="0"].large::after, .joinus-area .overlay-bg, .footer-social a:hover, .single-footer-widget .bb-btn, .generic-banner {
-  background-image: -moz-linear-gradient(0deg, #1FE0F2 0%, #09B8F7 100%);
-  background-image: -webkit-linear-gradient(0deg, #1FE0F2 0%, #09B8F7 100%);
-  background-image: -ms-linear-gradient(0deg, #1FE0F2 0%, #09B8F7 100%);
+  background-image: -moz-linear-gradient(0deg, #49a2d7 0%, #2782cd 100%);
+  background-image: -webkit-linear-gradient(0deg, #49a2d7 0%, #2782cd 100%);
+  background-image: -ms-linear-gradient(0deg, #49a2d7 0%, #2782cd 100%);
 }
 
 .p1-gradient-color, .signle-about:hover .lnr, .single-blog h4:hover {
@@ -3219,9 +3219,9 @@ h6 {
   width: 3rem;
   line-height: 3rem;
   text-align: center;
-  background-image: -webkit-linear-gradient(bottom, #1FE0F2 0%, #09B8F7 100%);
-  background-image: -o-linear-gradient(bottom, #1FE0F2 0%, #09B8F7 100%);
-  background-image: linear-gradient(to top, #1FE0F2 0%, #09B8F7 100%);  color: #fff;
+  background-image: -webkit-linear-gradient(bottom, #49a2d7 0%, #2782cd 100%);
+  background-image: -o-linear-gradient(bottom, #49a2d7 0%, #2782cd 100%);
+  background-image: linear-gradient(to top, #49a2d7 0%, #2782cd 100%);  color: #fff;
   cursor: pointer;
   font-size: 1.2em;
   border-radius: 99em;
