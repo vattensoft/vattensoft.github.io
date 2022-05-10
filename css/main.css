@@ -2133,7 +2133,7 @@ i.fa.fa-xs.fa-globe:hover,.navbar-nav li:hover{
 }
 
 .banner-area .overlay {
-  background: #043688;
+  background: #0a2976;
   opacity: .4;
 }
 
@@ -2440,7 +2440,7 @@ i.fa.fa-xs.fa-globe:hover,.navbar-nav li:hover{
 }
 
 .product-area {
-  background-image: linear-gradient(60deg,#1dddf2,#0bbbf6);
+  background-image: linear-gradient(60deg,#0f79cd,#50a7d8);
 }
   /* background: url(../img/product-bg.png) no-repeat center center;
   background-size: cover;
