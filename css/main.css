@@ -2458,7 +2458,8 @@ i.fa.fa-xs.fa-globe:hover,.navbar-nav li:hover{
 
 .product-left h1 {
   color: #fff;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
+  font-size: 1.7em;
 }
 
 @media (max-width: 768px) {
@@ -2492,7 +2493,7 @@ i.fa.fa-xs.fa-globe:hover,.navbar-nav li:hover{
 
 @media (max-width: 1280px) {
   .product-left {
-    padding-left: 5%;
+    padding-left: 4%;
   }
 }
 
