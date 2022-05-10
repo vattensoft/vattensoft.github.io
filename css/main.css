@@ -2153,6 +2153,7 @@ i.fa.fa-xs.fa-globe:hover,.navbar-nav li:hover{
 }
 
 .banner-content h1 {
+  text-shadow: 0.03em 0.06em 0.05em #476d9b82;
   color: #fff;
   font-weight: 500;
   font-size: 2.6rem;
